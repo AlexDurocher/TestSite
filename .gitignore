@@ -1,0 +1,12 @@
+.vs/
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
+TestResults/
+Saberis.Windows.DocumentService/publish/
+packages/*
+
+*.csproj.user
+*.pubxml
+*.pubxml.user
